@@ -8,7 +8,7 @@ Quick installer for **BeatForge**, a Lua modcharting library for Beat Saber
 
 Run this inside **Windows Powershell**:
 
-iwr https://raw.github.com/ThijsvZwam/BeatForge-Setup/main/install.pst | iex
+```iwr https://raw.githubusercontent.com/ThijsvZwam/BeatForge-Setup/main/install.ps1 | iex```
 
 ---
 
